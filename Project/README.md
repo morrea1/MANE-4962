@@ -13,6 +13,8 @@ Results were a model that underperformed on the data set, but showed hope for fu
 
 In this codebase, the data is scaled using a standard scaler. 
 
+NOTE: Models were saved locally, but are too large too be uploaded to github
+
 
 
 
